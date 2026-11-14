@@ -30,7 +30,8 @@
         try {
           if (stSelect.value) { await adminUpdateStation(stSelect.value, fields); showMessage($("admin-message"), "success", "Station updated."); }
           else { await adminAddStation(fields); showMessage($("admin-message"), "success", "Station created."); stSelect.value = ""; stName.value = ""; }
-          const newStations = await loadStations(); fillSelect(stSelect, newStations, "station_id", "station_name", { keepFirst: true }); fillSelect(pStation, newStations, "station_id", "station_name", { keepFirst: true });
+          invalidateStations();
+          let stations = await loadStations();
         } catch (err) { showMessage($("admin-message"), "error", describeError(err)); }
         finally { stSave.disabled = false; stSave.textContent = "Save station"; }
       });
