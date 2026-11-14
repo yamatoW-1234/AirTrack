@@ -58,7 +58,7 @@ function _once(key, loader) {
   }
   return _commonCache[key];
 }
-function loadStations() { return _once("stations", async () => (await getStations()).stations); }
+function invalidateStations() { delete _commonCache["stations"]; }
 function loadPollutants() { return _once("pollutants", async () => (await getPollutants()).pollutants); }
 function loadCategories() { return _once("categories", async () => (await getCategories()).categories); }
 
