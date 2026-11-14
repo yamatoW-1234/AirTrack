@@ -1,0 +1,285 @@
+{
+  "total": 35,
+  "rows": [
+    {
+      "station_id": 1,
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "date": "2026-10-24",
+      "aqi_value": 347,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 2,
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "date": "2026-10-24",
+      "aqi_value": 307,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 3,
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "date": "2026-10-24",
+      "aqi_value": 174,
+      "category": "Moderately Polluted",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 4,
+      "station_name": "Patparganj, Delhi - DPCC",
+      "date": "2026-10-24",
+      "aqi_value": 330,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 5,
+      "station_name": "ITO, Delhi - CPCB",
+      "date": "2026-10-24",
+      "aqi_value": 265,
+      "category": "Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 1,
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "date": "2026-10-23",
+      "aqi_value": 409,
+      "category": "Severe",
+      "dominant_pollutant": "PM10"
+    },
+    {
+      "station_id": 2,
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "date": "2026-10-23",
+      "aqi_value": 349,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 3,
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "date": "2026-10-23",
+      "aqi_value": 288,
+      "category": "Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 4,
+      "station_name": "Patparganj, Delhi - DPCC",
+      "date": "2026-10-23",
+      "aqi_value": 378,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 5,
+      "station_name": "ITO, Delhi - CPCB",
+      "date": "2026-10-23",
+      "aqi_value": 329,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 1,
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "date": "2026-10-22",
+      "aqi_value": 383,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 2,
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "date": "2026-10-22",
+      "aqi_value": 331,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 3,
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "date": "2026-10-22",
+      "aqi_value": 239,
+      "category": "Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 4,
+      "station_name": "Patparganj, Delhi - DPCC",
+      "date": "2026-10-22",
+      "aqi_value": 356,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 5,
+      "station_name": "ITO, Delhi - CPCB",
+      "date": "2026-10-22",
+      "aqi_value": 313,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 1,
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "date": "2026-10-21",
+      "aqi_value": 314,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 2,
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "date": "2026-10-21",
+      "aqi_value": 223,
+      "category": "Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 3,
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "date": "2026-10-21",
+      "aqi_value": 106,
+      "category": "Moderately Polluted",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 4,
+      "station_name": "Patparganj, Delhi - DPCC",
+      "date": "2026-10-21",
+      "aqi_value": 286,
+      "category": "Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 5,
+      "station_name": "ITO, Delhi - CPCB",
+      "date": "2026-10-21",
+      "aqi_value": 177,
+      "category": "Moderately Polluted",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 1,
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "date": "2026-10-20",
+      "aqi_value": 248,
+      "category": "Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 2,
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "date": "2026-10-20",
+      "aqi_value": 146,
+      "category": "Moderately Polluted",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 3,
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "date": "2026-10-20",
+      "aqi_value": 81,
+      "category": "Satisfactory",
+      "dominant_pollutant": "PM10"
+    },
+    {
+      "station_id": 4,
+      "station_name": "Patparganj, Delhi - DPCC",
+      "date": "2026-10-20",
+      "aqi_value": 200,
+      "category": "Moderately Polluted",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 5,
+      "station_name": "ITO, Delhi - CPCB",
+      "date": "2026-10-20",
+      "aqi_value": 112,
+      "category": "Moderately Polluted",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 1,
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "date": "2026-10-19",
+      "aqi_value": 336,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 2,
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "date": "2026-10-19",
+      "aqi_value": 295,
+      "category": "Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 3,
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "date": "2026-10-19",
+      "aqi_value": 152,
+      "category": "Moderately Polluted",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 4,
+      "station_name": "Patparganj, Delhi - DPCC",
+      "date": "2026-10-19",
+      "aqi_value": 317,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 5,
+      "station_name": "ITO, Delhi - CPCB",
+      "date": "2026-10-19",
+      "aqi_value": 234,
+      "category": "Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 1,
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "date": "2026-10-18",
+      "aqi_value": 357,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 2,
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "date": "2026-10-18",
+      "aqi_value": 313,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 3,
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "date": "2026-10-18",
+      "aqi_value": 191,
+      "category": "Moderately Polluted",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 4,
+      "station_name": "Patparganj, Delhi - DPCC",
+      "date": "2026-10-18",
+      "aqi_value": 337,
+      "category": "Very Poor",
+      "dominant_pollutant": "PM2.5"
+    },
+    {
+      "station_id": 5,
+      "station_name": "ITO, Delhi - CPCB",
+      "date": "2026-10-18",
+      "aqi_value": 295,
+      "category": "Poor",
+      "dominant_pollutant": "PM2.5"
+    }
+  ]
+}

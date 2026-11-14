@@ -1,0 +1,29 @@
+{
+  "station_id": 1,
+  "readings": [
+    {
+      "pollutant": "PM2.5",
+      "concentration": 213.76,
+      "sub_index": 372,
+      "reading_datetime": "2026-10-24T23:00:00"
+    },
+    {
+      "pollutant": "PM10",
+      "concentration": 391.32,
+      "sub_index": 352,
+      "reading_datetime": "2026-10-24T23:00:00"
+    },
+    {
+      "pollutant": "NO2",
+      "concentration": 86.84,
+      "sub_index": 108,
+      "reading_datetime": "2026-10-24T23:00:00"
+    },
+    {
+      "pollutant": "SO2",
+      "concentration": 23.07,
+      "sub_index": 29,
+      "reading_datetime": "2026-10-24T23:00:00"
+    }
+  ]
+}
