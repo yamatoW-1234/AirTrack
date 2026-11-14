@@ -8,6 +8,7 @@ Rules for the whole backend:
 import threading
 import time
 from contextlib import contextmanager
+import os
 
 from mysql.connector import pooling
 from mysql.connector.errors import PoolError
@@ -17,17 +18,25 @@ from config import Config
 _pools = {}
 _lock = threading.Lock()
 
-
 def _make_pool(role):
     if role == "reader":
         user, password = Config.DB_READER_USER, Config.DB_READER_PASSWORD
-        size, autocommit = Config.READER_POOL_SIZE, True  # each SELECT is its own transaction
+        size, autocommit = Config.READER_POOL_SIZE, True
     else:
         user, password = Config.DB_WRITER_USER, Config.DB_WRITER_PASSWORD
-        size, autocommit = Config.WRITER_POOL_SIZE, False  # commit/rollback done explicitly
+        size, autocommit = Config.WRITER_POOL_SIZE, False
 
     if not user or password is None:
         raise RuntimeError(f"Missing DB_{role.upper()}_USER / DB_{role.upper()}_PASSWORD in .env")
+
+    # --- TIDB CLOUD SSL FIX ---
+    # TiDB Serverless requires SSL. Render runs on Ubuntu, which has the standard CA certs.
+    ssl_args = {}
+    if "tidbcloud.com" in Config.DB_HOST or os.getenv("DB_FORCE_SSL") == "true":
+        ssl_args["ssl_disabled"] = False
+        ssl_args["ssl_ca"] = "/etc/ssl/certs/ca-certificates.crt"
+        ssl_args["ssl_verify_cert"] = True
+    # --------------------------
 
     return pooling.MySQLConnectionPool(
         pool_name=f"airtrack_{role}",
@@ -39,6 +48,7 @@ def _make_pool(role):
         password=password,
         charset="utf8mb4",
         autocommit=autocommit,
+        **ssl_args  # Inject SSL arguments for TiDB
     )
 
 
