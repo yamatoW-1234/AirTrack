@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Station Management | AirTrack</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">AirTrack <span>Delhi air quality</span></a>
+      <nav class="nav" aria-label="Main">
+        <a href="index.html">Dashboard</a>
+        <a href="summary.html">24-Hour Summary</a>
+        <a href="search.html">Search</a>
+        <a href="reports.html">Reports</a>
+        <a href="admin.html" class="active" aria-current="page">Admin</a>
+      </nav>
+    </div>
+  </header>
+  <div id="mock-banner" class="mock-banner" hidden></div>
+
+  <main class="container">
+    <h1>Station Management</h1>
+
+    <div id="message" class="notice" hidden></div>
+
+    <!-- Admin key: typed here, kept in JS memory only (gone when the page is reloaded) -->
+    <section class="panel">
+      <h2>Admin key</h2>
+      <div class="field">
+        <label for="admin-key">X-Admin-Key</label>
+        <input type="password" id="admin-key" autocomplete="off" placeholder="Enter the ADMIN_KEY from the backend .env">
+        <div class="hint">Used only for the requests on this page. It is not saved anywhere.</div>
+      </div>
+    </section>
+
+    <!-- Add or update a station -->
+    <section class="panel">
+      <h2>Add or update a station</h2>
+      <form id="station-form" novalidate>
+        <div class="form-grid">
+          <div class="span-all">
+            <label for="station-pick">Station to edit</label>
+            <select id="station-pick"><option value="">New station</option></select>
+            <div class="hint">Choose an existing station to update it, or keep "New station" to add one.</div>
+          </div>
+          <div>
+            <label for="s-name">Station name <span class="muted">(required)</span></label>
+            <input type="text" id="s-name" maxlength="100">
+          </div>
+          <div>
+            <label for="s-location">Location</label>
+            <input type="text" id="s-location" maxlength="100">
+          </div>
+          <div>
+            <label for="s-lat">Latitude</label>
+            <input type="number" id="s-lat" step="any" min="-90" max="90">
+          </div>
+          <div>
+            <label for="s-lon">Longitude</label>
+            <input type="number" id="s-lon" step="any" min="-180" max="180">
+          </div>
+          <div>
+            <label for="s-type">Station type</label>
+            <input type="text" id="s-type" maxlength="30">
+          </div>
+          <div>
+            <label for="s-status">Status</label>
+            <select id="s-status">
+              <option value="">(unchanged)</option>
+              <option value="Active">Active</option>
+              <option value="Inactive">Inactive</option>
+            </select>
+          </div>
+          <div>
+            <label for="s-installed">Installation date</label>
+            <input type="date" id="s-installed">
+          </div>
+        </div>
+        <div class="btn-row">
+          <button type="submit" id="station-submit" class="btn">Save station</button>
+          <button type="reset" id="station-reset" class="btn btn-secondary">Clear form</button>
+        </div>
+      </form>
+      <div id="loading-station" class="loading" hidden><span class="spinner"></span><span>Saving…</span></div>
+      <div id="station-message" class="notice" hidden></div>
+    </section>
+
+    <!-- Assign a pollutant to a station -->
+    <section class="panel">
+      <h2>Assign a pollutant to a station</h2>
+      <form id="assign-form">
+        <div class="form-grid">
+          <div>
+            <label for="assign-station">Station</label>
+            <select id="assign-station"></select>
+          </div>
+          <div>
+            <label for="assign-pollutant">Pollutant</label>
+            <select id="assign-pollutant"></select>
+          </div>
+        </div>
+        <div class="btn-row">
+          <button type="submit" id="assign-submit" class="btn">Assign pollutant</button>
+        </div>
+      </form>
+      <div id="loading-assign" class="loading" hidden><span class="spinner"></span><span>Saving…</span></div>
+      <div id="assign-message" class="notice" hidden></div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="container">AirTrack · DBMS project, NIT Delhi (CSE)</div></footer>
+
+  <script src="js/config.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>

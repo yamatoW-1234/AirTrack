@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reports | AirTrack</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">AirTrack <span>Delhi air quality</span></a>
+      <nav class="nav" aria-label="Main">
+        <a href="index.html">Dashboard</a>
+        <a href="summary.html">24-Hour Summary</a>
+        <a href="search.html">Search</a>
+        <a href="reports.html" class="active" aria-current="page">Reports</a>
+        <a href="admin.html">Admin</a>
+      </nav>
+    </div>
+  </header>
+  <div id="mock-banner" class="mock-banner" hidden></div>
+
+  <main class="container">
+    <h1>Reports</h1>
+
+    <!-- Report 1: all stations on one date -->
+    <section class="panel">
+      <h2>Compare stations</h2>
+      <form id="compare-form" class="toolbar">
+        <div class="field small">
+          <label for="compare-date">Date</label>
+          <input type="date" id="compare-date">
+          <div class="hint">Leave empty for the latest day</div>
+        </div>
+        <div class="field small">
+          <button type="submit" class="btn">Show report</button>
+        </div>
+      </form>
+
+      <div id="compare-loading" class="loading" hidden><span class="spinner"></span><span>Loading…</span></div>
+      <div id="compare-message" class="notice" hidden></div>
+
+      <div id="compare-content" hidden>
+        <p id="compare-title" class="muted"></p>
+        <!-- Most polluted station. JS sets --aqi-color and --aqi-text on this element. -->
+        <div id="most-polluted" class="highlight">
+          <div>
+            <div class="hl-label">Most polluted station</div>
+            <div id="mp-station" class="hl-station">--</div>
+            <div class="muted">Dominant pollutant: <strong id="mp-dominant">--</strong> · <span id="mp-category">--</span></div>
+          </div>
+          <div id="mp-aqi" class="hl-aqi">--</div>
+        </div>
+        <div class="chart-box"><canvas id="compare-chart" aria-label="AQI of every station, highest first" role="img"></canvas></div>
+      </div>
+    </section>
+
+    <!-- Report 2: average AQI over time for one station -->
+    <section class="panel">
+      <h2>Average AQI trend</h2>
+      <form id="average-form" class="toolbar">
+        <div class="field">
+          <label for="average-station">Station</label>
+          <select id="average-station"></select>
+        </div>
+        <div class="field small">
+          <label for="average-period">Period</label>
+          <select id="average-period">
+            <option value="daily">Daily</option>
+            <option value="monthly">Monthly</option>
+          </select>
+        </div>
+        <div class="field small">
+          <button type="submit" class="btn">Show trend</button>
+        </div>
+      </form>
+
+      <div id="average-loading" class="loading" hidden><span class="spinner"></span><span>Loading…</span></div>
+      <div id="average-message" class="notice" hidden></div>
+
+      <div id="average-content" hidden>
+        <div class="chart-box"><canvas id="average-chart" aria-label="Average AQI over time" role="img"></canvas></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="container">AirTrack · DBMS project, NIT Delhi (CSE)</div></footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/reports.js"></script>
+</body>
+</html>

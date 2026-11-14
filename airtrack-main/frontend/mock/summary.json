@@ -1,0 +1,503 @@
+{
+  "station_id": 1,
+  "date": "2026-10-24",
+  "pollutants": [
+    {
+      "pollutant": "PM2.5",
+      "avg": 180.59,
+      "min": 138.12,
+      "max": 224.97,
+      "hourly": [
+        {
+          "hour": 0,
+          "concentration": 207.23,
+          "sub_index": 367
+        },
+        {
+          "hour": 1,
+          "concentration": 193.57,
+          "sub_index": 357
+        },
+        {
+          "hour": 2,
+          "concentration": 199.97,
+          "sub_index": 362
+        },
+        {
+          "hour": 3,
+          "concentration": 175.39,
+          "sub_index": 343
+        },
+        {
+          "hour": 4,
+          "concentration": 174.01,
+          "sub_index": 342
+        },
+        {
+          "hour": 5,
+          "concentration": 162.05,
+          "sub_index": 333
+        },
+        {
+          "hour": 6,
+          "concentration": 146.19,
+          "sub_index": 321
+        },
+        {
+          "hour": 7,
+          "concentration": 140.1,
+          "sub_index": 316
+        },
+        {
+          "hour": 8,
+          "concentration": 142.04,
+          "sub_index": 318
+        },
+        {
+          "hour": 9,
+          "concentration": 138.12,
+          "sub_index": 315
+        },
+        {
+          "hour": 10,
+          "concentration": 139.3,
+          "sub_index": 316
+        },
+        {
+          "hour": 11,
+          "concentration": 147.15,
+          "sub_index": 322
+        },
+        {
+          "hour": 12,
+          "concentration": 156.1,
+          "sub_index": 328
+        },
+        {
+          "hour": 13,
+          "concentration": 168.39,
+          "sub_index": 338
+        },
+        {
+          "hour": 14,
+          "concentration": 164.44,
+          "sub_index": 335
+        },
+        {
+          "hour": 15,
+          "concentration": 187.95,
+          "sub_index": 353
+        },
+        {
+          "hour": 16,
+          "concentration": 197.19,
+          "sub_index": 360
+        },
+        {
+          "hour": 17,
+          "concentration": 195.96,
+          "sub_index": 359
+        },
+        {
+          "hour": 18,
+          "concentration": 201.79,
+          "sub_index": 363
+        },
+        {
+          "hour": 19,
+          "concentration": 211.33,
+          "sub_index": 371
+        },
+        {
+          "hour": 20,
+          "concentration": 224.97,
+          "sub_index": 381
+        },
+        {
+          "hour": 21,
+          "concentration": 222.54,
+          "sub_index": 379
+        },
+        {
+          "hour": 22,
+          "concentration": 224.66,
+          "sub_index": 381
+        },
+        {
+          "hour": 23,
+          "concentration": 213.76,
+          "sub_index": 372
+        }
+      ]
+    },
+    {
+      "pollutant": "PM10",
+      "avg": 316.79,
+      "min": 234.86,
+      "max": 391.32,
+      "hourly": [
+        {
+          "hour": 0,
+          "concentration": 345.62,
+          "sub_index": 296
+        },
+        {
+          "hour": 1,
+          "concentration": 333.91,
+          "sub_index": 284
+        },
+        {
+          "hour": 2,
+          "concentration": 345.43,
+          "sub_index": 295
+        },
+        {
+          "hour": 3,
+          "concentration": 315.95,
+          "sub_index": 266
+        },
+        {
+          "hour": 4,
+          "concentration": 302.27,
+          "sub_index": 253
+        },
+        {
+          "hour": 5,
+          "concentration": 279.36,
+          "sub_index": 230
+        },
+        {
+          "hour": 6,
+          "concentration": 264.68,
+          "sub_index": 216
+        },
+        {
+          "hour": 7,
+          "concentration": 242.44,
+          "sub_index": 195
+        },
+        {
+          "hour": 8,
+          "concentration": 262.47,
+          "sub_index": 213
+        },
+        {
+          "hour": 9,
+          "concentration": 258.88,
+          "sub_index": 210
+        },
+        {
+          "hour": 10,
+          "concentration": 234.86,
+          "sub_index": 190
+        },
+        {
+          "hour": 11,
+          "concentration": 251.24,
+          "sub_index": 202
+        },
+        {
+          "hour": 12,
+          "concentration": 281.66,
+          "sub_index": 232
+        },
+        {
+          "hour": 13,
+          "concentration": 283.1,
+          "sub_index": 234
+        },
+        {
+          "hour": 14,
+          "concentration": 310.54,
+          "sub_index": 261
+        },
+        {
+          "hour": 15,
+          "concentration": 314.93,
+          "sub_index": 265
+        },
+        {
+          "hour": 16,
+          "concentration": 338.33,
+          "sub_index": 288
+        },
+        {
+          "hour": 17,
+          "concentration": 346.14,
+          "sub_index": 296
+        },
+        {
+          "hour": 18,
+          "concentration": 371.2,
+          "sub_index": 327
+        },
+        {
+          "hour": 19,
+          "concentration": 371.46,
+          "sub_index": 328
+        },
+        {
+          "hour": 20,
+          "concentration": 389.78,
+          "sub_index": 350
+        },
+        {
+          "hour": 21,
+          "concentration": 390.52,
+          "sub_index": 351
+        },
+        {
+          "hour": 22,
+          "concentration": 376.95,
+          "sub_index": 334
+        },
+        {
+          "hour": 23,
+          "concentration": 391.32,
+          "sub_index": 352
+        }
+      ]
+    },
+    {
+      "pollutant": "NO2",
+      "avg": 75.22,
+      "min": 58.07,
+      "max": 94.68,
+      "hourly": [
+        {
+          "hour": 0,
+          "concentration": 87.32,
+          "sub_index": 108
+        },
+        {
+          "hour": 1,
+          "concentration": 80.5,
+          "sub_index": 101
+        },
+        {
+          "hour": 2,
+          "concentration": 81.78,
+          "sub_index": 103
+        },
+        {
+          "hour": 3,
+          "concentration": 71.36,
+          "sub_index": 89
+        },
+        {
+          "hour": 4,
+          "concentration": 73.36,
+          "sub_index": 92
+        },
+        {
+          "hour": 5,
+          "concentration": 65.4,
+          "sub_index": 82
+        },
+        {
+          "hour": 6,
+          "concentration": 61.46,
+          "sub_index": 77
+        },
+        {
+          "hour": 7,
+          "concentration": 58.07,
+          "sub_index": 73
+        },
+        {
+          "hour": 8,
+          "concentration": 60.66,
+          "sub_index": 76
+        },
+        {
+          "hour": 9,
+          "concentration": 60.66,
+          "sub_index": 76
+        },
+        {
+          "hour": 10,
+          "concentration": 62.6,
+          "sub_index": 79
+        },
+        {
+          "hour": 11,
+          "concentration": 62.77,
+          "sub_index": 79
+        },
+        {
+          "hour": 12,
+          "concentration": 64.1,
+          "sub_index": 81
+        },
+        {
+          "hour": 13,
+          "concentration": 67.65,
+          "sub_index": 85
+        },
+        {
+          "hour": 14,
+          "concentration": 73.43,
+          "sub_index": 92
+        },
+        {
+          "hour": 15,
+          "concentration": 73.06,
+          "sub_index": 91
+        },
+        {
+          "hour": 16,
+          "concentration": 75.3,
+          "sub_index": 94
+        },
+        {
+          "hour": 17,
+          "concentration": 85.58,
+          "sub_index": 107
+        },
+        {
+          "hour": 18,
+          "concentration": 87.98,
+          "sub_index": 109
+        },
+        {
+          "hour": 19,
+          "concentration": 94.13,
+          "sub_index": 115
+        },
+        {
+          "hour": 20,
+          "concentration": 89.93,
+          "sub_index": 111
+        },
+        {
+          "hour": 21,
+          "concentration": 94.68,
+          "sub_index": 116
+        },
+        {
+          "hour": 22,
+          "concentration": 86.64,
+          "sub_index": 108
+        },
+        {
+          "hour": 23,
+          "concentration": 86.84,
+          "sub_index": 108
+        }
+      ]
+    },
+    {
+      "pollutant": "SO2",
+      "avg": 20.05,
+      "min": 15.19,
+      "max": 25.42,
+      "hourly": [
+        {
+          "hour": 0,
+          "concentration": 22.47,
+          "sub_index": 28
+        },
+        {
+          "hour": 1,
+          "concentration": 23.2,
+          "sub_index": 29
+        },
+        {
+          "hour": 2,
+          "concentration": 20.4,
+          "sub_index": 26
+        },
+        {
+          "hour": 6,
+          "concentration": 17.43,
+          "sub_index": 22
+        },
+        {
+          "hour": 7,
+          "concentration": 16.2,
+          "sub_index": 20
+        },
+        {
+          "hour": 8,
+          "concentration": 16.42,
+          "sub_index": 21
+        },
+        {
+          "hour": 9,
+          "concentration": 15.19,
+          "sub_index": 19
+        },
+        {
+          "hour": 10,
+          "concentration": 15.91,
+          "sub_index": 20
+        },
+        {
+          "hour": 11,
+          "concentration": 16.32,
+          "sub_index": 20
+        },
+        {
+          "hour": 12,
+          "concentration": 17.6,
+          "sub_index": 22
+        },
+        {
+          "hour": 13,
+          "concentration": 17.24,
+          "sub_index": 22
+        },
+        {
+          "hour": 14,
+          "concentration": 17.95,
+          "sub_index": 22
+        },
+        {
+          "hour": 15,
+          "concentration": 20.25,
+          "sub_index": 25
+        },
+        {
+          "hour": 16,
+          "concentration": 20.78,
+          "sub_index": 26
+        },
+        {
+          "hour": 17,
+          "concentration": 23.1,
+          "sub_index": 29
+        },
+        {
+          "hour": 18,
+          "concentration": 22.82,
+          "sub_index": 29
+        },
+        {
+          "hour": 19,
+          "concentration": 22.94,
+          "sub_index": 29
+        },
+        {
+          "hour": 20,
+          "concentration": 25.42,
+          "sub_index": 32
+        },
+        {
+          "hour": 21,
+          "concentration": 23.64,
+          "sub_index": 30
+        },
+        {
+          "hour": 22,
+          "concentration": 22.77,
+          "sub_index": 28
+        },
+        {
+          "hour": 23,
+          "concentration": 23.07,
+          "sub_index": 29
+        }
+      ]
+    }
+  ]
+}

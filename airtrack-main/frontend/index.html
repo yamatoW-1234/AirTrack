@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dashboard | AirTrack</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">AirTrack <span>Delhi air quality</span></a>
+      <nav class="nav" aria-label="Main">
+        <a href="index.html" class="active" aria-current="page">Dashboard</a>
+        <a href="summary.html">24-Hour Summary</a>
+        <a href="search.html">Search</a>
+        <a href="reports.html">Reports</a>
+        <a href="admin.html">Admin</a>
+      </nav>
+    </div>
+  </header>
+  <div id="mock-banner" class="mock-banner" hidden></div>
+
+  <main class="container">
+    <h1>Dashboard</h1>
+
+    <div class="toolbar">
+      <div class="field">
+        <label for="station-select">Station</label>
+        <select id="station-select"></select>
+      </div>
+    </div>
+
+    <div id="loading" class="loading" hidden><span class="spinner"></span><span>Loading…</span></div>
+    <div id="message" class="notice" hidden></div>
+
+    <div id="content" hidden>
+      <!-- Large AQI card. JS sets --aqi-color and --aqi-text on this element. -->
+      <section id="aqi-card" class="aqi-card" aria-live="polite">
+        <div class="aqi-main">
+          <div id="aqi-number" class="aqi-number">--</div>
+          <div class="aqi-meta">
+            <span id="aqi-category" class="badge">--</span>
+            <p class="aqi-date">Daily AQI for <strong id="aqi-date">--</strong> <span id="aqi-hours"></span></p>
+          </div>
+        </div>
+        <p id="aqi-health" class="aqi-health"></p>
+        <dl class="aqi-facts">
+          <div><dt>Dominant pollutant</dt><dd id="aqi-dominant">--</dd></div>
+          <div><dt>Last updated</dt><dd id="aqi-updated">--</dd></div>
+        </dl>
+      </section>
+
+      <h2>Latest readings</h2>
+      <p id="readings-time" class="muted"></p>
+      <div id="pollutant-cards" class="cards"></div>
+
+      <h2>AQI categories</h2>
+      <ul id="legend" class="legend"></ul>
+    </div>
+  </main>
+
+  <footer class="site-footer"><div class="container">AirTrack · DBMS project, NIT Delhi (CSE)</div></footer>
+
+  <script src="js/config.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>

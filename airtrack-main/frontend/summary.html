@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>24-Hour Summary | AirTrack</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">AirTrack <span>Delhi air quality</span></a>
+      <nav class="nav" aria-label="Main">
+        <a href="index.html">Dashboard</a>
+        <a href="summary.html" class="active" aria-current="page">24-Hour Summary</a>
+        <a href="search.html">Search</a>
+        <a href="reports.html">Reports</a>
+        <a href="admin.html">Admin</a>
+      </nav>
+    </div>
+  </header>
+  <div id="mock-banner" class="mock-banner" hidden></div>
+
+  <main class="container">
+    <h1>24-Hour Summary</h1>
+
+    <form id="summary-form" class="toolbar">
+      <div class="field">
+        <label for="station-select">Station</label>
+        <select id="station-select"></select>
+      </div>
+      <div class="field small">
+        <label for="date-input">Date</label>
+        <input type="date" id="date-input">
+        <div class="hint">Leave empty for the latest day</div>
+      </div>
+      <div class="field small">
+        <label>Chart shows</label>
+        <div class="radio-row">
+          <label><input type="radio" name="metric" value="concentration" checked> Concentration</label>
+          <label><input type="radio" name="metric" value="sub_index"> Sub-index</label>
+        </div>
+      </div>
+      <div class="field small">
+        <button type="submit" class="btn">Show summary</button>
+      </div>
+    </form>
+
+    <div id="loading" class="loading" hidden><span class="spinner"></span><span>Loading…</span></div>
+    <div id="message" class="notice" hidden></div>
+
+    <div id="content" hidden>
+      <p id="summary-title" class="muted"></p>
+
+      <section class="panel">
+        <h2>Hourly values</h2>
+        <div class="chart-box"><canvas id="hourly-chart" aria-label="Hourly values per pollutant" role="img"></canvas></div>
+      </section>
+
+      <section class="panel">
+        <h2>Daily statistics</h2>
+        <div class="table-wrap">
+          <table id="summary-table">
+            <thead>
+              <tr>
+                <th>Pollutant</th>
+                <th class="num">Average</th>
+                <th class="num">Min</th>
+                <th class="num">Max</th>
+                <th class="num">Hours of data</th>
+              </tr>
+            </thead>
+            <tbody id="summary-body"></tbody>
+          </table>
+        </div>
+        <p class="hint">Concentration values, in the unit of each pollutant. Only hours that have a reading are shown.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer"><div class="container">AirTrack · DBMS project, NIT Delhi (CSE)</div></footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/summary.js"></script>
+</body>
+</html>
