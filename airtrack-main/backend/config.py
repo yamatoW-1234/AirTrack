@@ -9,14 +9,12 @@ class Config:
     DB_HOST = os.getenv("DB_HOST", "localhost")
     DB_PORT = int(os.getenv("DB_PORT", "3306"))
     DB_NAME = os.getenv("DB_NAME", "airtrack")
-
     DB_READER_USER = os.getenv("DB_READER_USER")
     DB_READER_PASSWORD = os.getenv("DB_READER_PASSWORD")
     DB_WRITER_USER = os.getenv("DB_WRITER_USER")
     DB_WRITER_PASSWORD = os.getenv("DB_WRITER_PASSWORD")
-
     ADMIN_KEY = os.getenv("ADMIN_KEY")
-
+    
     # Render injects the PORT environment variable automatically
     API_PORT = int(os.getenv("PORT", 5000))
     
