@@ -1,0 +1,4907 @@
+{
+  "total": 700,
+  "limit": 700,
+  "offset": 0,
+  "rows": [
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 213.76,
+      "sub_index": 372
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 391.32,
+      "sub_index": 352
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 86.84,
+      "sub_index": 108
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 23.07,
+      "sub_index": 29
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 144.89,
+      "sub_index": 320
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 275.61,
+      "sub_index": 226
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 60.71,
+      "sub_index": 76
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 15.82,
+      "sub_index": 20
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 98.35,
+      "sub_index": 229
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 178.72,
+      "sub_index": 153
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 39.45,
+      "sub_index": 49
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 11.21,
+      "sub_index": 14
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 181.21,
+      "sub_index": 348
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 336.91,
+      "sub_index": 287
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 76.2,
+      "sub_index": 95
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 20.65,
+      "sub_index": 26
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 134.65,
+      "sub_index": 312
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 228.9,
+      "sub_index": 186
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 52.35,
+      "sub_index": 66
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T23:00:00",
+      "concentration": 14.43,
+      "sub_index": 18
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 201.79,
+      "sub_index": 363
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 371.2,
+      "sub_index": 327
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 87.98,
+      "sub_index": 109
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 22.82,
+      "sub_index": 29
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 143.1,
+      "sub_index": 319
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 260.9,
+      "sub_index": 212
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 59.19,
+      "sub_index": 75
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 16.73,
+      "sub_index": 21
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 93.3,
+      "sub_index": 212
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 163.49,
+      "sub_index": 143
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 39.92,
+      "sub_index": 50
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 10.91,
+      "sub_index": 14
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 183.94,
+      "sub_index": 350
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 324.15,
+      "sub_index": 274
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 75.35,
+      "sub_index": 94
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 18.47,
+      "sub_index": 23
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 122.16,
+      "sub_index": 303
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 208.42,
+      "sub_index": 173
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 54.55,
+      "sub_index": 69
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T18:00:00",
+      "concentration": 14.53,
+      "sub_index": 18
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 156.1,
+      "sub_index": 328
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 281.66,
+      "sub_index": 232
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 64.1,
+      "sub_index": 81
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 17.6,
+      "sub_index": 22
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 112.71,
+      "sub_index": 276
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 190.16,
+      "sub_index": 161
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 44.59,
+      "sub_index": 57
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 12.45,
+      "sub_index": 16
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 73.22,
+      "sub_index": 145
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 123.05,
+      "sub_index": 116
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 29.28,
+      "sub_index": 37
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 7.4,
+      "sub_index": 9
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 137.94,
+      "sub_index": 315
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 225.25,
+      "sub_index": 184
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 55.59,
+      "sub_index": 70
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 13.47,
+      "sub_index": 17
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 91.47,
+      "sub_index": 206
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 153.71,
+      "sub_index": 136
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 37.17,
+      "sub_index": 46
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T12:00:00",
+      "concentration": 9.74,
+      "sub_index": 12
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 146.19,
+      "sub_index": 321
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 264.68,
+      "sub_index": 216
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 61.46,
+      "sub_index": 77
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 17.43,
+      "sub_index": 22
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 107.08,
+      "sub_index": 257
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 195.9,
+      "sub_index": 164
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 47.04,
+      "sub_index": 60
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 11.63,
+      "sub_index": 15
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 73.65,
+      "sub_index": 146
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 113.85,
+      "sub_index": 110
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 29.41,
+      "sub_index": 37
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 7.46,
+      "sub_index": 9
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 135.08,
+      "sub_index": 312
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 231.77,
+      "sub_index": 188
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 55.82,
+      "sub_index": 70
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 15.17,
+      "sub_index": 19
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 88.88,
+      "sub_index": 196
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 163.18,
+      "sub_index": 143
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 38.2,
+      "sub_index": 48
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T06:00:00",
+      "concentration": 10.62,
+      "sub_index": 13
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 207.23,
+      "sub_index": 367
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 345.62,
+      "sub_index": 296
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 87.32,
+      "sub_index": 108
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 22.47,
+      "sub_index": 28
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 148.26,
+      "sub_index": 323
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 265.71,
+      "sub_index": 217
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 62.72,
+      "sub_index": 79
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 15.64,
+      "sub_index": 20
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 90.08,
+      "sub_index": 201
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 158.79,
+      "sub_index": 140
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 38.0,
+      "sub_index": 48
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 10.45,
+      "sub_index": 13
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 189.37,
+      "sub_index": 354
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 317.02,
+      "sub_index": 267
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 72.06,
+      "sub_index": 90
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 18.76,
+      "sub_index": 23
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 124.28,
+      "sub_index": 304
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 224.41,
+      "sub_index": 183
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 50.52,
+      "sub_index": 64
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-24T00:00:00",
+      "concentration": 13.41,
+      "sub_index": 17
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 317.25,
+      "sub_index": 428
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 555.23,
+      "sub_index": 474
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 122.14,
+      "sub_index": 143
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 34.47,
+      "sub_index": 43
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 207.86,
+      "sub_index": 368
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 385.54,
+      "sub_index": 345
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 89.52,
+      "sub_index": 110
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 24.66,
+      "sub_index": 31
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 132.84,
+      "sub_index": 311
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 226.72,
+      "sub_index": 185
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 55.23,
+      "sub_index": 70
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 14.53,
+      "sub_index": 18
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 273.15,
+      "sub_index": 410
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 441.45,
+      "sub_index": 408
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 101.42,
+      "sub_index": 122
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 29.78,
+      "sub_index": 37
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 189.89,
+      "sub_index": 354
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 306.51,
+      "sub_index": 257
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 75.63,
+      "sub_index": 95
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T23:00:00",
+      "concentration": 19.85,
+      "sub_index": 25
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 312.84,
+      "sub_index": 426
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 489.51,
+      "sub_index": 436
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 118.27,
+      "sub_index": 139
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 34.14,
+      "sub_index": 43
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 200.86,
+      "sub_index": 363
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 353.12,
+      "sub_index": 305
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 83.81,
+      "sub_index": 105
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 23.85,
+      "sub_index": 30
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 136.22,
+      "sub_index": 313
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 223.59,
+      "sub_index": 183
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 57.14,
+      "sub_index": 72
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 14.42,
+      "sub_index": 18
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 254.08,
+      "sub_index": 403
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 432.11,
+      "sub_index": 402
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 102.9,
+      "sub_index": 124
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 26.86,
+      "sub_index": 34
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 178.41,
+      "sub_index": 345
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 315.44,
+      "sub_index": 266
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 70.71,
+      "sub_index": 89
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T18:00:00",
+      "concentration": 20.39,
+      "sub_index": 25
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 217.78,
+      "sub_index": 375
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 395.3,
+      "sub_index": 357
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 87.86,
+      "sub_index": 109
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 22.62,
+      "sub_index": 28
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 152.98,
+      "sub_index": 326
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 261.82,
+      "sub_index": 213
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 60.93,
+      "sub_index": 77
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 17.26,
+      "sub_index": 22
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 92.93,
+      "sub_index": 211
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 165.57,
+      "sub_index": 144
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 40.05,
+      "sub_index": 51
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 10.2,
+      "sub_index": 13
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 175.05,
+      "sub_index": 343
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 324.37,
+      "sub_index": 275
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 77.27,
+      "sub_index": 97
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 19.1,
+      "sub_index": 24
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 136.98,
+      "sub_index": 314
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 226.47,
+      "sub_index": 184
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 54.54,
+      "sub_index": 69
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T12:00:00",
+      "concentration": 14.65,
+      "sub_index": 18
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 212.67,
+      "sub_index": 372
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 387.98,
+      "sub_index": 348
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 95.01,
+      "sub_index": 116
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 23.09,
+      "sub_index": 29
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 153.53,
+      "sub_index": 327
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 276.68,
+      "sub_index": 227
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 63.8,
+      "sub_index": 80
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 16.91,
+      "sub_index": 21
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 100.82,
+      "sub_index": 237
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 175.76,
+      "sub_index": 151
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 39.1,
+      "sub_index": 49
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 10.19,
+      "sub_index": 13
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 194.07,
+      "sub_index": 357
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 335.06,
+      "sub_index": 285
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 79.77,
+      "sub_index": 100
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 21.23,
+      "sub_index": 27
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 126.96,
+      "sub_index": 306
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 236.07,
+      "sub_index": 191
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 53.03,
+      "sub_index": 67
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T06:00:00",
+      "concentration": 14.28,
+      "sub_index": 18
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 307.9,
+      "sub_index": 424
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 524.11,
+      "sub_index": 456
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 116.97,
+      "sub_index": 138
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 30.9,
+      "sub_index": 39
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 211.48,
+      "sub_index": 371
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 364.96,
+      "sub_index": 320
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 90.17,
+      "sub_index": 111
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 21.85,
+      "sub_index": 27
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 135.78,
+      "sub_index": 313
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 222.92,
+      "sub_index": 182
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 52.82,
+      "sub_index": 67
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 14.6,
+      "sub_index": 18
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 254.51,
+      "sub_index": 403
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 428.2,
+      "sub_index": 398
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 106.12,
+      "sub_index": 127
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 28.53,
+      "sub_index": 36
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 175.77,
+      "sub_index": 343
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 321.86,
+      "sub_index": 272
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 71.37,
+      "sub_index": 89
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-23T00:00:00",
+      "concentration": 18.58,
+      "sub_index": 23
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 271.23,
+      "sub_index": 409
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 448.48,
+      "sub_index": 412
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 113.36,
+      "sub_index": 134
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 31.02,
+      "sub_index": 39
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 181.39,
+      "sub_index": 348
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 335.83,
+      "sub_index": 286
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 79.78,
+      "sub_index": 100
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 21.45,
+      "sub_index": 27
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 116.14,
+      "sub_index": 287
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 205.82,
+      "sub_index": 171
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 48.01,
+      "sub_index": 61
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 12.68,
+      "sub_index": 16
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 243.11,
+      "sub_index": 395
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 403.53,
+      "sub_index": 367
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 98.92,
+      "sub_index": 120
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 25.54,
+      "sub_index": 32
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 168.92,
+      "sub_index": 338
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 273.16,
+      "sub_index": 224
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 70.01,
+      "sub_index": 88
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T23:00:00",
+      "concentration": 18.36,
+      "sub_index": 23
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 259.09,
+      "sub_index": 405
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 450.18,
+      "sub_index": 413
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 106.66,
+      "sub_index": 127
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 30.03,
+      "sub_index": 38
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 178.59,
+      "sub_index": 346
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 314.16,
+      "sub_index": 265
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 73.47,
+      "sub_index": 92
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 19.94,
+      "sub_index": 25
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 114.72,
+      "sub_index": 283
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 197.32,
+      "sub_index": 165
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 46.27,
+      "sub_index": 59
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 12.42,
+      "sub_index": 16
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 217.21,
+      "sub_index": 375
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 384.29,
+      "sub_index": 343
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 93.05,
+      "sub_index": 114
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 23.7,
+      "sub_index": 30
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 157.56,
+      "sub_index": 330
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 285.23,
+      "sub_index": 236
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 67.87,
+      "sub_index": 85
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T18:00:00",
+      "concentration": 16.92,
+      "sub_index": 21
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 193.64,
+      "sub_index": 357
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 345.72,
+      "sub_index": 296
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 82.01,
+      "sub_index": 103
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 21.49,
+      "sub_index": 27
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 134.84,
+      "sub_index": 312
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 220.46,
+      "sub_index": 181
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 52.96,
+      "sub_index": 67
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 14.25,
+      "sub_index": 18
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 81.55,
+      "sub_index": 172
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 148.29,
+      "sub_index": 133
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 35.38,
+      "sub_index": 44
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 9.04,
+      "sub_index": 11
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 158.81,
+      "sub_index": 331
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 264.92,
+      "sub_index": 216
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 64.22,
+      "sub_index": 81
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 18.51,
+      "sub_index": 23
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 115.24,
+      "sub_index": 284
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 209.09,
+      "sub_index": 173
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 49.69,
+      "sub_index": 63
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T12:00:00",
+      "concentration": 12.0,
+      "sub_index": 15
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 202.76,
+      "sub_index": 364
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 313.83,
+      "sub_index": 264
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 80.58,
+      "sub_index": 102
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 20.57,
+      "sub_index": 26
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 132.12,
+      "sub_index": 310
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 239.06,
+      "sub_index": 193
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 52.44,
+      "sub_index": 66
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 15.2,
+      "sub_index": 19
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 81.87,
+      "sub_index": 173
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 156.63,
+      "sub_index": 138
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 36.8,
+      "sub_index": 46
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 8.93,
+      "sub_index": 11
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 153.93,
+      "sub_index": 327
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 288.31,
+      "sub_index": 239
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 66.41,
+      "sub_index": 83
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 18.09,
+      "sub_index": 23
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 111.19,
+      "sub_index": 271
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 198.79,
+      "sub_index": 166
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 49.1,
+      "sub_index": 62
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T06:00:00",
+      "concentration": 12.1,
+      "sub_index": 15
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 263.06,
+      "sub_index": 406
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 466.73,
+      "sub_index": 422
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 102.55,
+      "sub_index": 123
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 28.72,
+      "sub_index": 36
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 191.12,
+      "sub_index": 355
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 322.19,
+      "sub_index": 272
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 79.52,
+      "sub_index": 99
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 20.79,
+      "sub_index": 26
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 121.07,
+      "sub_index": 302
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 213.73,
+      "sub_index": 176
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 47.59,
+      "sub_index": 60
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 13.6,
+      "sub_index": 17
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 221.26,
+      "sub_index": 378
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 362.24,
+      "sub_index": 316
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 92.89,
+      "sub_index": 114
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 23.33,
+      "sub_index": 29
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 154.68,
+      "sub_index": 327
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 285.75,
+      "sub_index": 236
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 61.91,
+      "sub_index": 78
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-22T00:00:00",
+      "concentration": 16.53,
+      "sub_index": 21
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 170.81,
+      "sub_index": 340
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 276.84,
+      "sub_index": 228
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 69.3,
+      "sub_index": 87
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 18.62,
+      "sub_index": 23
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 110.57,
+      "sub_index": 269
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 200.74,
+      "sub_index": 167
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 47.57,
+      "sub_index": 60
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 12.89,
+      "sub_index": 16
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 69.65,
+      "sub_index": 133
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 125.65,
+      "sub_index": 118
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 29.69,
+      "sub_index": 37
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 8.25,
+      "sub_index": 10
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 136.62,
+      "sub_index": 314
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 242.09,
+      "sub_index": 195
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 60.04,
+      "sub_index": 76
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 14.33,
+      "sub_index": 18
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 92.6,
+      "sub_index": 210
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 158.09,
+      "sub_index": 139
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 39.03,
+      "sub_index": 49
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T23:00:00",
+      "concentration": 10.04,
+      "sub_index": 13
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 166.2,
+      "sub_index": 336
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 254.53,
+      "sub_index": 205
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 61.83,
+      "sub_index": 78
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 17.2,
+      "sub_index": 22
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 112.08,
+      "sub_index": 274
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 194.27,
+      "sub_index": 163
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 46.63,
+      "sub_index": 59
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 12.44,
+      "sub_index": 16
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 71.59,
+      "sub_index": 139
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 122.12,
+      "sub_index": 116
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 30.17,
+      "sub_index": 38
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 7.4,
+      "sub_index": 9
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 126.4,
+      "sub_index": 306
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 221.35,
+      "sub_index": 181
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 53.09,
+      "sub_index": 67
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 14.04,
+      "sub_index": 18
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 100.24,
+      "sub_index": 235
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 155.01,
+      "sub_index": 137
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 38.28,
+      "sub_index": 48
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T18:00:00",
+      "concentration": 10.7,
+      "sub_index": 13
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 114.18,
+      "sub_index": 281
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 187.9,
+      "sub_index": 159
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 49.36,
+      "sub_index": 62
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 12.63,
+      "sub_index": 16
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 83.3,
+      "sub_index": 178
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 142.66,
+      "sub_index": 129
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 34.96,
+      "sub_index": 44
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 9.01,
+      "sub_index": 11
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 51.63,
+      "sub_index": 86
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 84.44,
+      "sub_index": 85
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 20.84,
+      "sub_index": 26
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 5.74,
+      "sub_index": 7
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 103.13,
+      "sub_index": 244
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 168.53,
+      "sub_index": 146
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 41.08,
+      "sub_index": 52
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 11.24,
+      "sub_index": 14
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 65.95,
+      "sub_index": 121
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 114.66,
+      "sub_index": 111
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 29.95,
+      "sub_index": 37
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T12:00:00",
+      "concentration": 7.48,
+      "sub_index": 9
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 116.38,
+      "sub_index": 288
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 205.58,
+      "sub_index": 171
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 45.58,
+      "sub_index": 58
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 12.56,
+      "sub_index": 16
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 80.43,
+      "sub_index": 168
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 140.77,
+      "sub_index": 128
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 31.73,
+      "sub_index": 40
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 8.7,
+      "sub_index": 11
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 54.11,
+      "sub_index": 90
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 91.65,
+      "sub_index": 92
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 22.18,
+      "sub_index": 28
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 5.33,
+      "sub_index": 7
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 102.57,
+      "sub_index": 242
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 164.24,
+      "sub_index": 143
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 42.21,
+      "sub_index": 54
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 10.18,
+      "sub_index": 13
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 71.01,
+      "sub_index": 137
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 116.1,
+      "sub_index": 112
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 28.64,
+      "sub_index": 36
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T06:00:00",
+      "concentration": 7.51,
+      "sub_index": 9
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 155.14,
+      "sub_index": 328
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 262.2,
+      "sub_index": 213
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 67.06,
+      "sub_index": 84
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 16.96,
+      "sub_index": 21
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 114.57,
+      "sub_index": 282
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 187.51,
+      "sub_index": 159
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 45.39,
+      "sub_index": 58
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 12.5,
+      "sub_index": 16
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 69.0,
+      "sub_index": 131
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 120.52,
+      "sub_index": 115
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 29.22,
+      "sub_index": 37
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 7.36,
+      "sub_index": 9
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 138.11,
+      "sub_index": 315
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 232.45,
+      "sub_index": 188
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 55.97,
+      "sub_index": 71
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 14.3,
+      "sub_index": 18
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 99.09,
+      "sub_index": 231
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 158.74,
+      "sub_index": 140
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 40.0,
+      "sub_index": 51
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-21T00:00:00",
+      "concentration": 9.87,
+      "sub_index": 12
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 131.01,
+      "sub_index": 309
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 209.8,
+      "sub_index": 173
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 48.8,
+      "sub_index": 62
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 13.24,
+      "sub_index": 17
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 84.47,
+      "sub_index": 182
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 141.73,
+      "sub_index": 129
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 36.35,
+      "sub_index": 45
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 9.35,
+      "sub_index": 12
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 59.03,
+      "sub_index": 98
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 96.59,
+      "sub_index": 97
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 23.71,
+      "sub_index": 30
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 6.0,
+      "sub_index": 8
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 104.8,
+      "sub_index": 250
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 186.51,
+      "sub_index": 158
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 42.46,
+      "sub_index": 54
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 11.07,
+      "sub_index": 14
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 76.42,
+      "sub_index": 155
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 121.68,
+      "sub_index": 115
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 31.86,
+      "sub_index": 40
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T23:00:00",
+      "concentration": 7.82,
+      "sub_index": 10
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 117.0,
+      "sub_index": 290
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 211.34,
+      "sub_index": 174
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 50.29,
+      "sub_index": 64
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 13.83,
+      "sub_index": 17
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 87.64,
+      "sub_index": 192
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 148.55,
+      "sub_index": 133
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 35.21,
+      "sub_index": 44
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 9.44,
+      "sub_index": 12
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 52.25,
+      "sub_index": 87
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 96.22,
+      "sub_index": 96
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 21.35,
+      "sub_index": 27
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 6.15,
+      "sub_index": 8
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 107.81,
+      "sub_index": 260
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 178.38,
+      "sub_index": 153
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 44.7,
+      "sub_index": 57
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 10.89,
+      "sub_index": 14
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 70.51,
+      "sub_index": 136
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 129.63,
+      "sub_index": 121
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 29.07,
+      "sub_index": 36
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T18:00:00",
+      "concentration": 8.22,
+      "sub_index": 10
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 87.62,
+      "sub_index": 192
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 155.53,
+      "sub_index": 138
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 34.55,
+      "sub_index": 43
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 9.05,
+      "sub_index": 11
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 62.38,
+      "sub_index": 109
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 108.4,
+      "sub_index": 107
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 26.08,
+      "sub_index": 33
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 6.34,
+      "sub_index": 8
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 39.25,
+      "sub_index": 66
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 68.03,
+      "sub_index": 69
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 17.25,
+      "sub_index": 22
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 4.24,
+      "sub_index": 5
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 73.16,
+      "sub_index": 144
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 131.09,
+      "sub_index": 122
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 31.11,
+      "sub_index": 39
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 8.42,
+      "sub_index": 11
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 52.15,
+      "sub_index": 87
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 89.6,
+      "sub_index": 90
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 21.99,
+      "sub_index": 27
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T12:00:00",
+      "concentration": 5.89,
+      "sub_index": 7
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 83.84,
+      "sub_index": 180
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 144.36,
+      "sub_index": 130
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 36.97,
+      "sub_index": 46
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 9.84,
+      "sub_index": 12
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 63.45,
+      "sub_index": 112
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 100.42,
+      "sub_index": 101
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 25.16,
+      "sub_index": 31
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 6.35,
+      "sub_index": 8
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 41.72,
+      "sub_index": 70
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 70.3,
+      "sub_index": 71
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 16.01,
+      "sub_index": 20
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 4.47,
+      "sub_index": 6
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 77.23,
+      "sub_index": 158
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 133.71,
+      "sub_index": 123
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 31.11,
+      "sub_index": 39
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 8.41,
+      "sub_index": 11
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 50.6,
+      "sub_index": 85
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 87.27,
+      "sub_index": 88
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 21.53,
+      "sub_index": 27
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T06:00:00",
+      "concentration": 5.81,
+      "sub_index": 7
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 122.61,
+      "sub_index": 303
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 210.71,
+      "sub_index": 174
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 47.04,
+      "sub_index": 60
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 13.36,
+      "sub_index": 17
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 89.38,
+      "sub_index": 198
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 141.02,
+      "sub_index": 128
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 32.85,
+      "sub_index": 41
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 9.45,
+      "sub_index": 12
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 53.99,
+      "sub_index": 90
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 89.81,
+      "sub_index": 90
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 22.92,
+      "sub_index": 29
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 6.03,
+      "sub_index": 8
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 103.23,
+      "sub_index": 245
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 184.87,
+      "sub_index": 157
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 42.85,
+      "sub_index": 54
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 11.86,
+      "sub_index": 15
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 72.15,
+      "sub_index": 141
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 121.41,
+      "sub_index": 115
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 28.82,
+      "sub_index": 36
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-20T00:00:00",
+      "concentration": 7.49,
+      "sub_index": 9
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 195.78,
+      "sub_index": 359
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 319.97,
+      "sub_index": 270
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 79.09,
+      "sub_index": 99
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 20.73,
+      "sub_index": 26
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 130.73,
+      "sub_index": 309
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 229.7,
+      "sub_index": 187
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 56.38,
+      "sub_index": 71
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 15.16,
+      "sub_index": 19
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 87.82,
+      "sub_index": 193
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 159.07,
+      "sub_index": 140
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 38.56,
+      "sub_index": 48
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 9.62,
+      "sub_index": 12
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 160.97,
+      "sub_index": 332
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 297.11,
+      "sub_index": 248
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 67.29,
+      "sub_index": 84
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 18.49,
+      "sub_index": 23
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 120.07,
+      "sub_index": 301
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 203.96,
+      "sub_index": 170
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 49.01,
+      "sub_index": 62
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T23:00:00",
+      "concentration": 12.85,
+      "sub_index": 16
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 197.17,
+      "sub_index": 360
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 339.92,
+      "sub_index": 290
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 75.15,
+      "sub_index": 94
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 20.03,
+      "sub_index": 25
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 140.28,
+      "sub_index": 316
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 242.79,
+      "sub_index": 195
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 54.68,
+      "sub_index": 69
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 14.99,
+      "sub_index": 19
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 86.2,
+      "sub_index": 187
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 141.26,
+      "sub_index": 128
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 36.22,
+      "sub_index": 45
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 8.99,
+      "sub_index": 11
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 164.53,
+      "sub_index": 335
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 269.46,
+      "sub_index": 220
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 65.76,
+      "sub_index": 83
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 18.68,
+      "sub_index": 23
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 110.2,
+      "sub_index": 268
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 206.38,
+      "sub_index": 171
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 47.99,
+      "sub_index": 61
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T18:00:00",
+      "concentration": 11.89,
+      "sub_index": 15
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 134.14,
+      "sub_index": 312
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 237.05,
+      "sub_index": 191
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 55.81,
+      "sub_index": 70
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 15.9,
+      "sub_index": 20
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 101.34,
+      "sub_index": 238
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 170.17,
+      "sub_index": 147
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 41.6,
+      "sub_index": 53
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 10.1,
+      "sub_index": 13
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 66.33,
+      "sub_index": 122
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 103.06,
+      "sub_index": 103
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 26.59,
+      "sub_index": 33
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 7.25,
+      "sub_index": 9
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 125.75,
+      "sub_index": 305
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 216.11,
+      "sub_index": 178
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 46.62,
+      "sub_index": 59
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 13.66,
+      "sub_index": 17
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 79.99,
+      "sub_index": 167
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 151.25,
+      "sub_index": 135
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 35.63,
+      "sub_index": 45
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T12:00:00",
+      "concentration": 9.59,
+      "sub_index": 12
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 133.85,
+      "sub_index": 312
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 253.76,
+      "sub_index": 205
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 60.53,
+      "sub_index": 76
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 14.79,
+      "sub_index": 18
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 102.32,
+      "sub_index": 242
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 174.71,
+      "sub_index": 150
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 39.4,
+      "sub_index": 49
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 10.55,
+      "sub_index": 13
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 60.25,
+      "sub_index": 102
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 104.2,
+      "sub_index": 104
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 24.99,
+      "sub_index": 31
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 7.04,
+      "sub_index": 9
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 119.2,
+      "sub_index": 297
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 207.16,
+      "sub_index": 172
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 46.3,
+      "sub_index": 59
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 13.17,
+      "sub_index": 16
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 87.05,
+      "sub_index": 190
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 145.85,
+      "sub_index": 131
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 34.83,
+      "sub_index": 44
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T06:00:00",
+      "concentration": 9.15,
+      "sub_index": 11
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 191.49,
+      "sub_index": 355
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 334.02,
+      "sub_index": 284
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 74.78,
+      "sub_index": 94
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 20.09,
+      "sub_index": 25
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 141.04,
+      "sub_index": 317
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 234.58,
+      "sub_index": 190
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 56.97,
+      "sub_index": 72
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 14.42,
+      "sub_index": 18
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 86.7,
+      "sub_index": 189
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 144.75,
+      "sub_index": 131
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 34.17,
+      "sub_index": 43
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 9.42,
+      "sub_index": 12
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 170.8,
+      "sub_index": 340
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 291.97,
+      "sub_index": 243
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 67.29,
+      "sub_index": 84
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 18.59,
+      "sub_index": 23
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 117.56,
+      "sub_index": 292
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 186.72,
+      "sub_index": 158
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 45.45,
+      "sub_index": 58
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-19T00:00:00",
+      "concentration": 11.95,
+      "sub_index": 15
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 246.05,
+      "sub_index": 397
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 384.39,
+      "sub_index": 344
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 100.6,
+      "sub_index": 121
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 25.27,
+      "sub_index": 32
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 167.09,
+      "sub_index": 337
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 280.19,
+      "sub_index": 231
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 63.6,
+      "sub_index": 80
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 18.03,
+      "sub_index": 23
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 104.88,
+      "sub_index": 250
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 169.33,
+      "sub_index": 147
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 40.78,
+      "sub_index": 52
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 11.26,
+      "sub_index": 14
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 187.82,
+      "sub_index": 353
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 339.49,
+      "sub_index": 290
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 81.98,
+      "sub_index": 103
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 20.88,
+      "sub_index": 26
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 137.64,
+      "sub_index": 314
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 230.94,
+      "sub_index": 187
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 56.89,
+      "sub_index": 72
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T23:00:00",
+      "concentration": 15.45,
+      "sub_index": 19
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 219.26,
+      "sub_index": 377
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 376.97,
+      "sub_index": 334
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 88.03,
+      "sub_index": 109
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 23.61,
+      "sub_index": 30
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 155.49,
+      "sub_index": 328
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 274.68,
+      "sub_index": 225
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 64.54,
+      "sub_index": 81
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 17.15,
+      "sub_index": 21
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 98.38,
+      "sub_index": 229
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 169.61,
+      "sub_index": 147
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 40.84,
+      "sub_index": 52
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 11.39,
+      "sub_index": 14
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 182.23,
+      "sub_index": 348
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 319.12,
+      "sub_index": 269
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 83.2,
+      "sub_index": 104
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 20.82,
+      "sub_index": 26
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 138.94,
+      "sub_index": 315
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 227.97,
+      "sub_index": 185
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 56.39,
+      "sub_index": 71
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T18:00:00",
+      "concentration": 13.99,
+      "sub_index": 17
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 165.57,
+      "sub_index": 336
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 291.54,
+      "sub_index": 242
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 67.01,
+      "sub_index": 84
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 17.8,
+      "sub_index": 22
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 112.88,
+      "sub_index": 277
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 199.15,
+      "sub_index": 166
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 49.97,
+      "sub_index": 63
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 12.99,
+      "sub_index": 16
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 78.21,
+      "sub_index": 161
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 130.09,
+      "sub_index": 121
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 29.74,
+      "sub_index": 37
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 8.35,
+      "sub_index": 10
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 143.44,
+      "sub_index": 319
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 237.72,
+      "sub_index": 192
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 59.76,
+      "sub_index": 75
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 14.51,
+      "sub_index": 18
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 103.59,
+      "sub_index": 246
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 164.2,
+      "sub_index": 143
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 40.95,
+      "sub_index": 52
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T12:00:00",
+      "concentration": 10.82,
+      "sub_index": 14
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 156.62,
+      "sub_index": 329
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 281.75,
+      "sub_index": 232
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 68.72,
+      "sub_index": 86
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 18.72,
+      "sub_index": 23
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 115.46,
+      "sub_index": 285
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 202.22,
+      "sub_index": 168
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 44.96,
+      "sub_index": 57
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 12.83,
+      "sub_index": 16
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 74.54,
+      "sub_index": 149
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 133.97,
+      "sub_index": 123
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 29.0,
+      "sub_index": 36
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 8.21,
+      "sub_index": 10
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 132.57,
+      "sub_index": 311
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 239.54,
+      "sub_index": 193
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 55.48,
+      "sub_index": 70
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 14.63,
+      "sub_index": 18
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 101.18,
+      "sub_index": 238
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 174.04,
+      "sub_index": 150
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 39.99,
+      "sub_index": 50
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T06:00:00",
+      "concentration": 11.11,
+      "sub_index": 14
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 214.39,
+      "sub_index": 373
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 375.45,
+      "sub_index": 332
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 95.77,
+      "sub_index": 117
+    },
+    {
+      "station_name": "Anand Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 25.38,
+      "sub_index": 32
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 167.21,
+      "sub_index": 337
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 261.83,
+      "sub_index": 213
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 62.86,
+      "sub_index": 79
+    },
+    {
+      "station_name": "Vivek Vihar, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 16.9,
+      "sub_index": 21
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 99.74,
+      "sub_index": 233
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 179.73,
+      "sub_index": 154
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 41.84,
+      "sub_index": 53
+    },
+    {
+      "station_name": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 10.94,
+      "sub_index": 14
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 191.77,
+      "sub_index": 356
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 330.75,
+      "sub_index": 281
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 78.36,
+      "sub_index": 98
+    },
+    {
+      "station_name": "Patparganj, Delhi - DPCC",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 20.51,
+      "sub_index": 26
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM2.5",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 142.93,
+      "sub_index": 318
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "PM10",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 240.35,
+      "sub_index": 194
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "NO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 53.36,
+      "sub_index": 67
+    },
+    {
+      "station_name": "ITO, Delhi - CPCB",
+      "pollutant": "SO2",
+      "reading_datetime": "2026-10-18T00:00:00",
+      "concentration": 15.38,
+      "sub_index": 19
+    }
+  ]
+}

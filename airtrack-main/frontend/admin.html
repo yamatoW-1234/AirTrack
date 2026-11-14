@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Station Management | AirTrack</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">A</span>
+        <span>AirTrack</span>
+        <span class="brand-sub">Delhi air quality</span>
+      </a>
+      <nav class="nav">
+        <a href="index.html">Dashboard</a>
+        <a href="summary.html">24-Hour Summary</a>
+        <a href="search.html">Search</a>
+        <a href="reports.html">Reports</a>
+        <a href="admin.html">Admin</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="page-header">
+      <div>
+        <h1 class="page-title">Station Management</h1>
+        <p class="page-subtitle">Add or update monitoring stations and assign pollutants.</p>
+      </div>
+    </div>
+
+    <section class="card" style="margin-bottom:16px;">
+      <div class="card-head"><h2 class="card-title">Admin key</h2></div>
+      <div class="card-body">
+        <div class="form-row">
+          <div class="field" style="grid-column: 1 / -1; max-width: 420px;">
+            <label for="admin-key">X-Admin-Key <small style="text-transform:none;font-weight:400;color:var(--text-subtle);">Used only for requests on this page. It is not saved anywhere.</small></label>
+            <input id="admin-key" type="password" class="input" autocomplete="off" placeholder="Enter admin key" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card" style="margin-bottom:16px;">
+      <div class="card-head"><h2 class="card-title">Add or update a station</h2></div>
+      <div class="card-body">
+        <form id="station-form" novalidate>
+          <div class="form-row">
+            <div class="field">
+              <label for="st-select">Station to edit</label>
+              <select id="st-select" class="select">
+                <option value="">New station</option>
+              </select>
+              <small style="color:var(--text-muted);">Choose an existing station to update it, or keep "New station" to add one.</small>
+            </div>
+            <div class="field">
+              <label for="st-name">Station name <span style="color:var(--danger);">*</span></label>
+              <input id="st-name" type="text" class="input" required placeholder="e.g. Anand Vihar" />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field">
+              <label for="st-location">Location</label>
+              <input id="st-location" type="text" class="input" placeholder="Locality / area" />
+            </div>
+            <div class="field">
+              <label for="st-lat">Latitude</label>
+              <input id="st-lat" type="number" step="any" class="input" placeholder="28.6448" />
+            </div>
+            <div class="field">
+              <label for="st-lon">Longitude</label>
+              <input id="st-lon" type="number" step="any" class="input" placeholder="77.2167" />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field">
+              <label for="st-type">Station type</label>
+              <input id="st-type" type="text" class="input" placeholder="e.g. Manual / Automatic / RRM" />
+            </div>
+            <div class="field">
+              <label for="st-status">Status</label>
+              <select id="st-status" class="select">
+                <option value="">(unchanged)</option>
+                <option value="active">Active</option>
+                <option value="inactive">Inactive</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="st-installed">Installation date</label>
+              <input id="st-installed" type="date" class="input" />
+            </div>
+          </div>
+          <div class="actions">
+            <button type="submit" id="st-save" class="btn btn-primary">Save station</button>
+            <button type="button" id="st-clear" class="btn btn-secondary">Clear form</button>
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="card-head"><h2 class="card-title">Assign a pollutant to a station</h2></div>
+      <div class="card-body">
+        <form id="pollutant-form" novalidate>
+          <div class="form-row">
+            <div class="field">
+              <label for="p-station">Station</label>
+              <select id="p-station" class="select"><option value="">Select…</option></select>
+            </div>
+            <div class="field">
+              <label for="p-pollutant">Pollutant</label>
+              <select id="p-pollutant" class="select">
+                <option value="">Select…</option>
+                <option>PM2.5</option><option>PM10</option>
+                <option>NO2</option><option>O3</option>
+                <option>SO2</option><option>CO</option>
+                <option>NH3</option>
+              </select>
+            </div>
+            <div class="field" style="justify-content:flex-end;">
+              <label>&nbsp;</label>
+              <button type="submit" id="p-assign" class="btn btn-primary">Assign pollutant</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">AirTrack · DBMS project, NIT Delhi (CSE)</footer>
+
+  <script src="js/app.js"></script>
+  <script>
+  (function () {
+    const AT = window.AirTrack;
+
+    const keyInp     = document.getElementById("admin-key");
+    const stSelect   = document.getElementById("st-select");
+    const stForm     = document.getElementById("station-form");
+    const stName     = document.getElementById("st-name");
+    const stLocation = document.getElementById("st-location");
+    const stLat      = document.getElementById("st-lat");
+    const stLon      = document.getElementById("st-lon");
+    const stType     = document.getElementById("st-type");
+    const stStatus   = document.getElementById("st-status");
+    const stInstalled= document.getElementById("st-installed");
+    const stSave     = document.getElementById("st-save");
+    const stClear    = document.getElementById("st-clear");
+
+    const pStation   = document.getElementById("p-station");
+    const pPollutant = document.getElementById("p-pollutant");
+    const pForm      = document.getElementById("pollutant-form");
+    const pAssign    = document.getElementById("p-assign");
+
+    keyInp.value = AT.getAdminKey();
+    keyInp.addEventListener("input", () => AT.setAdminKey(keyInp.value.trim()));
+
+    async function loadStations() {
+      try {
+        const data = await AT.api("/api/stations");
+        const list = Array.isArray(data) ? data : (data.stations || []);
+        const opts = [`<option value="">New station</option>`]
+          .concat(list.map(s => `<option value="${s.id}">${escapeHtml(s.name || s.id)}</option>`));
+        stSelect.innerHTML = opts.join("");
+
+        pStation.innerHTML = [`<option value="">Select…</option>`]
+          .concat(list.map(s => `<option value="${s.id}">${escapeHtml(s.name || s.id)}</option>`)).join("");
+      } catch (e) {
+        stSelect.innerHTML = `<option value="">Failed to load stations</option>`;
+        AT.toast(e.message, "error");
+      }
+    }
+
+    stSelect.addEventListener("change", async () => {
+      clearStationForm();
+      const id = stSelect.value;
+      if (!id) return;
+      try {
+        const s = await AT.api(`/api/stations/${encodeURIComponent(id)}`);
+        stName.value     = s.name || "";
+        stLocation.value = s.location || "";
+        stLat.value      = s.latitude  ?? "";
+        stLon.value      = s.longitude ?? "";
+        stType.value     = s.type || "";
+        stStatus.value   = s.status || "";
+        stInstalled.value= s.installationDate ? String(s.installationDate).slice(0, 10) : "";
+      } catch (e) {
+        AT.toast("Could not load station details: " + e.message, "error");
+      }
+    });
+
+    function clearStationForm() {
+      stName.value = "";
+      stLocation.value = "";
+      stLat.value = "";
+      stLon.value = "";
+      stType.value = "";
+      stStatus.value = "";
+      stInstalled.value = "";
+    }
+    stClear.addEventListener("click", () => {
+      stSelect.value = "";
+      clearStationForm();
+    });
+
+    function setBusy(btn, busy, originalText) {
+      if (busy) {
+        btn.dataset.origText = btn.textContent;
+        btn.disabled = true;
+        btn.innerHTML = `<span class="spinner"></span>Saving…`;
+      } else {
+        btn.disabled = false;
+        btn.textContent = btn.dataset.origText || originalText;
+      }
+    }
+
+    stForm.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      if (!stName.value.trim()) {
+        AT.toast("Station name is required.", "warn");
+        stName.focus();
+        return;
+      }
+      if (!keyInp.value.trim()) {
+        AT.toast("Admin key is required.", "warn");
+        keyInp.focus();
+        return;
+      }
+      const payload = {
+        name: stName.value.trim(),
+        location: stLocation.value.trim() || null,
+        latitude: stLat.value === "" ? null : Number(stLat.value),
+        longitude: stLon.value === "" ? null : Number(stLon.value),
+        type: stType.value.trim() || null,
+        installationDate: stInstalled.value || null,
+      };
+      if (stStatus.value) payload.status = stStatus.value;
+
+      const existingId = stSelect.value;
+      const method = existingId ? "PUT" : "POST";
+      const path = existingId ? `/api/stations/${encodeURIComponent(existingId)}` : `/api/stations`;
+
+      setBusy(stSave, true);
+      try {
+        await AT.api(path, { method, body: payload, admin: true });
+        AT.toast(existingId ? "Station updated." : "Station created.", "success");
+        await loadStations();
+        if (!existingId) {
+          stSelect.value = "";
+          clearStationForm();
+        }
+      } catch (err) {
+        AT.toast(err.message || "Failed to save station.", "error");
+      } finally {
+        setBusy(stSave, false, "Save station");
+      }
+    });
+
+    pForm.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      if (!pStation.value || !pPollutant.value) {
+        AT.toast("Select both a station and a pollutant.", "warn");
+        return;
+      }
+      if (!keyInp.value.trim()) {
+        AT.toast("Admin key is required.", "warn");
+        keyInp.focus();
+        return;
+      }
+      setBusy(pAssign, true);
+      try {
+        await AT.api(
+          `/api/stations/${encodeURIComponent(pStation.value)}/pollutants`,
+          { method: "POST", body: { pollutant: pPollutant.value }, admin: true }
+        );
+        AT.toast("Pollutant assigned.", "success");
+        pPollutant.value = "";
+      } catch (err) {
+        AT.toast(err.message || "Failed to assign pollutant.", "error");
+      } finally {
+        setBusy(pAssign, false, "Assign pollutant");
+      }
+    });
+
+    function escapeHtml(s) {
+      return String(s ?? "").replace(/[&<>"']/g, c => ({
+        "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+      }[c]));
+    }
+
+    loadStations();
+  })();
+  </script>
+  <script src="js/config.js"></script><script src="js/api.js"></script><script src="js/common.js"></script><script src="js/admin.js"></script>
+</body>
+</html>

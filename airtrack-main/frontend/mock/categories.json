@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Good",
+      "min_aqi": 0,
+      "max_aqi": 50,
+      "color_code": "#00B050",
+      "health_impact": "Minimal impact."
+    },
+    {
+      "category_id": 2,
+      "category_name": "Satisfactory",
+      "min_aqi": 51,
+      "max_aqi": 100,
+      "color_code": "#92D050",
+      "health_impact": "May cause minor breathing discomfort to sensitive people."
+    },
+    {
+      "category_id": 3,
+      "category_name": "Moderately Polluted",
+      "min_aqi": 101,
+      "max_aqi": 200,
+      "color_code": "#FFD500",
+      "health_impact": "May cause breathing discomfort to people with lung disease such as asthma, and discomfort to people with heart disease, children and older adults."
+    },
+    {
+      "category_id": 4,
+      "category_name": "Poor",
+      "min_aqi": 201,
+      "max_aqi": 300,
+      "color_code": "#FF9900",
+      "health_impact": "May cause breathing discomfort to people on prolonged exposure, and discomfort to people with heart disease."
+    },
+    {
+      "category_id": 5,
+      "category_name": "Very Poor",
+      "min_aqi": 301,
+      "max_aqi": 400,
+      "color_code": "#FF0000",
+      "health_impact": "May cause respiratory illness to people on prolonged exposure. Effect may be more pronounced in people with lung and heart diseases."
+    },
+    {
+      "category_id": 6,
+      "category_name": "Severe",
+      "min_aqi": 401,
+      "max_aqi": 500,
+      "color_code": "#AF2D24",
+      "health_impact": "May cause respiratory impact even on healthy people, and serious health impacts on people with lung or heart disease."
+    }
+  ]
+}
